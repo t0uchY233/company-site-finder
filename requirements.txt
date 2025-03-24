@@ -1,0 +1,7 @@
+pandas==2.0.0
+selenium==4.15.2
+beautifulsoup4==4.12.2
+webdriver-manager==4.0.1
+streamlit==1.29.0
+lxml==4.9.3
+requests==2.31.0 
